@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SpaceLion17
+- 👋 Hi, I’m @SpaceLion17 my name is Samuel
 - 👀 I’m interested in writing stories
 - 🌱 I’m currently learning HTML/CSS/JavaScript
 - 📫 How to reach me ...
