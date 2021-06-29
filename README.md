@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SpaceLion17 my name is Samuel
-- 👀 I’m interested in writing stories
-- 🌱 I’m currently learning HTML/CSS/JavaScript
-- 📫 How to reach me ...
+- 👋 Hi, My name is Samuel
+- 👀 I’m interested in Writing/Drawing/Music/Swimming/Web Development.
+- 🌱 I’m currently learning REACT
+- 📫 How to reach me sammyss@live.com.au
 
 <!---
 SpaceLion17/SpaceLion17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
